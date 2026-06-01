@@ -1,3 +1,5 @@
+package DSAPatterns.SearchingBinarySearchPattern;
+
 import java.util.*;
 
 public class BinarySearch {

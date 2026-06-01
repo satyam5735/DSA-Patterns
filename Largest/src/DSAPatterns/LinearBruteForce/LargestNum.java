@@ -1,3 +1,5 @@
+package DSAPatterns.LinearBruteForce;
+
 import java.util.*;
 
 public class LargestNum {

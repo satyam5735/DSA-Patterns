@@ -1,3 +1,5 @@
+package DSAPatterns.SlidingWindowPatternKadane;
+
 import java.util.*;
 
 public class MaxSumSubarray {
