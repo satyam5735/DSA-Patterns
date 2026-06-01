@@ -1,6 +1,4 @@
-package DSAPatterns.TwoPointersPattern;
-
-import java.util.*;
+package DSAPatterns.Level1.TwoPointersPattern;
 
 public class PrintPairs {
     public static void printPairs(int numbers[]){

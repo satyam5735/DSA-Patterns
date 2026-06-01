@@ -1,6 +1,4 @@
-package DSAPatterns.TwoPointersPattern;
-
-import java.util.*;
+package DSAPatterns.Level1.TwoPointersPattern;
 
 public class ReverseArray {
     public static void reverse(int numbers[]) {

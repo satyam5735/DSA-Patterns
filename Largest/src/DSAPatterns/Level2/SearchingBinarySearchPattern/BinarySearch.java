@@ -1,6 +1,4 @@
-package DSAPatterns.SearchingBinarySearchPattern;
-
-import java.util.*;
+package DSAPatterns.Level2.SearchingBinarySearchPattern;
 
 public class BinarySearch {
     public static int binarySearch(int numbers[], int key) {
